@@ -24,11 +24,11 @@ To use Skeleton Tracker, ensure you have Python installed along with the require
 ### Installation Steps
 1. Clone or download the repository:
    ```sh
-   git clone https://github.com/Griffin71/skeleton_tracker.git
+   git clone https://github.com/Griffin71/Skeleton_Tracker_Terminal_Version.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd skeleton_tracker
+   cd Skeleton_Tracker_Terminal_Version
    ```
 3. Install the required dependencies:
    ```sh
